@@ -1,0 +1,28 @@
+{
+  "name": "pushkontak-bot",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp untuk push kontak otomatis",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Zeeoneofc",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys" : "npm:@whiskeysockets/baileys@^6.5.0",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "@hapi/boom": "^10.0.0",
+    "awesome-phonenumber": "^2.64.0",
+    "chalk": "^4.1.2",
+    "fs": "0.0.1-security",
+    "moment-timezone": "^0.5.34",
+    "node-cache": "latest", 
+    "path": "^0.12.7",
+    "pino": "^7.0.5",
+    "qrcode": "^1.5.1",
+    "qrcode-terminal": "^0.12.0",
+    "readline": "latest",
+    "util": "^0.12.4"
+  }
+}
