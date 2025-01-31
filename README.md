@@ -1,1 +1,0 @@
-# BOT PUSH KONTAK
